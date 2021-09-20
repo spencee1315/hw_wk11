@@ -72,7 +72,7 @@ module.exports = function(app) {
                 if (err) throw err;
             });
         });
-        // Express resonse.status(204)
+        // Express response.status(204)
         res.status(204).send();
     });
 };
