@@ -19,11 +19,11 @@ This assignment started with a front-end foor the application, I built the back 
 
 ## Link to Site GitHub Repo
 
-* [Deployed Site via Heroku]()
-* [See Github Repo](https://github.com/spencee1315/hw_11)
+* [Deployed Site via Heroku](https://hw11-notetaker-uwbootcamp.herokuapp.com/notes)
+* [Github Repo](https://github.com/spencee1315/hw_11)
 
-Screenshot of live site:
-<img src="">
+* Demo of working app via [Screencastify](https://drive.google.com/file/d/16lcG863_pduJfFHh_dnkUF3iTYux-496/view)
+<img src="public/assets/NoteTaker.png">
 
 ## Installation 
 
